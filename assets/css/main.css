@@ -1725,7 +1725,7 @@
 		.image.featured {
 			display: block;
 			width: 25%;
-			margin: 0 auto 2em;
+			margin: 0 auto;
 		}
 
 		.image.left {

@@ -1940,7 +1940,7 @@
 	}
 
 		.item header {
-			background: #625A65;
+			background: #D2D1D1;
 			margin: 0;
 			padding: 0.5em 0 0.5em 0;
 			font-size: 0.8em;
@@ -1948,6 +1948,7 @@
 
 			.item header h3 {
 				font-size: 1em;
+				color:#000;
 			}
 
 /* Icons */
